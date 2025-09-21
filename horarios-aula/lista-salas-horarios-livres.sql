@@ -1,3 +1,6 @@
+-- ALista de salas com horários livres e ocupados
+-- 
+
 SELECT 
     r.id AS room_id,
     r.name AS room_name,

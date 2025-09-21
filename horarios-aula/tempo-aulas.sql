@@ -1,3 +1,6 @@
+-- A quantidade de horas que cada professor tem comprometido em aulas
+-- 
+
 SELECT 
     p.id AS professor_id,
     p.name AS professor_name,
